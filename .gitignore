@@ -1,0 +1,12 @@
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+/.vscode
+.gradle/
+/gradle
+!gradle/wrapper/gradle-wrapper.jar
+.DS_Store
